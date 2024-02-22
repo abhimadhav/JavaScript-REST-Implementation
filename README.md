@@ -25,11 +25,19 @@ RESTful API Design
 ## API Endpoints
 
 POST /login: Authenticate with a username and password to obtain a JWT token.
+
 GET /HospitalDetails: Retrieve all hospital details.
+
 GET /VentilatorDetails: Retrieve all ventilator details.
+
 POST /SearchVentilatorStatus: Search for ventilators by status.
+
 POST /Searchventbyname: Search for ventilators by hospital name.
+
 POST /Searchhospbyname: Search for hospitals by name.
+
 PUT /UpdateVentilator: Update the status of a ventilator.
+
 POST /AddVentilator: Add a new ventilator.
+
 DELETE /deleteventilator: Delete a ventilator.
