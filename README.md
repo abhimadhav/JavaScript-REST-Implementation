@@ -17,9 +17,13 @@ Protected Routes: All API endpoints are protected by JWT authentication, ensurin
 ## Technologies Used
 
 Node.js
+
 Express.js
+
 JSON Web Tokens (JWT)
+
 MongoDB
+
 RESTful API Design
 
 ## API Endpoints
